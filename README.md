@@ -1,4 +1,4 @@
-# Agentic-AI-Langchain
+# Agentic-AI-Langchain course Structure
 
 --------------Covered-------------------------
 
